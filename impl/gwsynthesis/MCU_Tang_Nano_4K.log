@@ -23,9 +23,9 @@ Analyzing VHDL file 'D:\GOWIN FPGA Projects\MCU_Tang_Nano_4K\src\gowin_pllvr\gow
 Analyzing entity 'gowin_pllvr'("D:\GOWIN FPGA Projects\MCU_Tang_Nano_4K\src\gowin_pllvr\gowin_pllvr.vhd":12)
 Analyzing architecture 'behavioral'("D:\GOWIN FPGA Projects\MCU_Tang_Nano_4K\src\gowin_pllvr\gowin_pllvr.vhd":19)
 Analyzing VHDL file 'D:\GOWIN FPGA Projects\MCU_Tang_Nano_4K\src\soc_top.vhd'
-Analyzing entity 'soc_top'("D:\GOWIN FPGA Projects\MCU_Tang_Nano_4K\src\soc_top.vhd":8)
+Analyzing entity 'soc_top'("D:\GOWIN FPGA Projects\MCU_Tang_Nano_4K\src\soc_top.vhd":6)
 Analyzing architecture 'structural'("D:\GOWIN FPGA Projects\MCU_Tang_Nano_4K\src\soc_top.vhd":16)
-Processing 'soc_top(structural)'("D:\GOWIN FPGA Projects\MCU_Tang_Nano_4K\src\soc_top.vhd":8)
+Processing 'soc_top(structural)'("D:\GOWIN FPGA Projects\MCU_Tang_Nano_4K\src\soc_top.vhd":6)
 WARN  (EX4546) : Not all partial formals of 'gpio' have actuals("D:\GOWIN FPGA Projects\MCU_Tang_Nano_4K\src\soc_top.vhd":21)
 Processing '**(**)'("D:\GOWIN FPGA Projects\MCU_Tang_Nano_4K\src\gowin_empu\gowin_empu.vhd":0)
 Processing '**(**)'("D:\GOWIN FPGA Projects\MCU_Tang_Nano_4K\src\gowin_empu\gowin_empu.vhd":0)
