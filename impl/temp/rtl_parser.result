@@ -1,0 +1,20 @@
+[
+ {
+  "InstFile" : "D:/GOWIN FPGA Projects/MCU_Tang_Nano_4K/src/soc_top.vhd",
+  "InstLine" : 5,
+  "InstName" : "soc_top",
+  "ModuleFile" : "D:/GOWIN FPGA Projects/MCU_Tang_Nano_4K/src/soc_top.vhd",
+  "ModuleLine" : 5,
+  "ModuleName" : "soc_top",
+  "SubInsts" : [
+   {
+    "InstFile" : "D:/GOWIN FPGA Projects/MCU_Tang_Nano_4K/src/soc_top.vhd",
+    "InstLine" : 41,
+    "InstName" : "cortexM3_inst",
+    "ModuleFile" : "D:/GOWIN FPGA Projects/MCU_Tang_Nano_4K/src/gowin_empu/gowin_empu.vhd",
+    "ModuleLine" : 1,
+    "ModuleName" : "Gowin_EMPU_Top"
+   }
+  ]
+ }
+]

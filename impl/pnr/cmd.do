@@ -1,0 +1,10 @@
+-d D:\GOWIN FPGA Projects\MCU_Tang_Nano_4K\impl\gwsynthesis\MCU_Tang_Nano_4K.vg
+-p GW1NSR-4C-QFN48P-6
+-pn GW1NSR-LV4CQN48PC6/I5
+-cst D:\GOWIN FPGA Projects\MCU_Tang_Nano_4K\src\FPGA_tang_nano_4K.cst
+-cfg D:\GOWIN FPGA Projects\MCU_Tang_Nano_4K\impl\pnr\device.cfg
+-bit
+-tr
+-ph
+-timing
+-cst_error
