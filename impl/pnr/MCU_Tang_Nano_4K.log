@@ -12,7 +12,6 @@ Running routing......
 [60%] Routing Phase 0 completed
 [70%] Routing Phase 1 completed
 [80%] Routing Phase 2 completed
-WARN  (PR1014) : Generic routing resource will be used to clock signal 'xtal_clk_d' by the specified constraint. And then it may lead to the excessive delay or skew
 [90%] Routing Phase 3 completed
 Running timing analysis......
 [95%] Timing analysis completed
@@ -26,5 +25,5 @@ Generate file "D:\GOWIN FPGA Projects\MCU_Tang_Nano_4K\impl\pnr\MCU_Tang_Nano_4K
 Generate file "D:\GOWIN FPGA Projects\MCU_Tang_Nano_4K\impl\pnr\MCU_Tang_Nano_4K.rpt.html" completed
 Generate file "D:\GOWIN FPGA Projects\MCU_Tang_Nano_4K\impl\pnr\MCU_Tang_Nano_4K.rpt.txt" completed
 Generate file "D:\GOWIN FPGA Projects\MCU_Tang_Nano_4K\impl\pnr\MCU_Tang_Nano_4K.tr.html" completed
-Sat Jan 21 11:09:19 2023
+Sat Jan 21 12:44:27 2023
 

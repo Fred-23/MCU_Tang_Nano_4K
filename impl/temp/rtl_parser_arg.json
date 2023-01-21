@@ -2,12 +2,17 @@
  "Files" : [
   {
    "Library" : "work",
+   "Path" : "D:/GOWIN FPGA Projects/MCU_Tang_Nano_4K/src/gowin_empu/gowin_empu.vhd",
+   "Type" : "vhdl"
+  },
+  {
+   "Library" : "work",
    "Path" : "D:/GOWIN FPGA Projects/MCU_Tang_Nano_4K/src/soc_top.vhd",
    "Type" : "vhdl"
   },
   {
    "Library" : "work",
-   "Path" : "D:/GOWIN FPGA Projects/MCU_Tang_Nano_4K/src/gowin_empu/gowin_empu.vhd",
+   "Path" : "D:/GOWIN FPGA Projects/MCU_Tang_Nano_4K/src/gowin_pllvr/gowin_pllvr.vhd",
    "Type" : "vhdl"
   }
  ],

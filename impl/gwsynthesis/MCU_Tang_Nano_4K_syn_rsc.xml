@@ -1,2 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Module name="soc_top" Register="127" Lut="154" Bsram="4"/>
+<Module name="soc_top" Register="127" Lut="154" Bsram="4">
+    <SubModule name="pllvr_inst"/>
+</Module>

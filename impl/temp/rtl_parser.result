@@ -1,19 +1,27 @@
 [
  {
   "InstFile" : "D:/GOWIN FPGA Projects/MCU_Tang_Nano_4K/src/soc_top.vhd",
-  "InstLine" : 5,
+  "InstLine" : 6,
   "InstName" : "soc_top",
   "ModuleFile" : "D:/GOWIN FPGA Projects/MCU_Tang_Nano_4K/src/soc_top.vhd",
-  "ModuleLine" : 5,
+  "ModuleLine" : 6,
   "ModuleName" : "soc_top",
   "SubInsts" : [
    {
     "InstFile" : "D:/GOWIN FPGA Projects/MCU_Tang_Nano_4K/src/soc_top.vhd",
-    "InstLine" : 41,
+    "InstLine" : 19,
     "InstName" : "cortexM3_inst",
     "ModuleFile" : "D:/GOWIN FPGA Projects/MCU_Tang_Nano_4K/src/gowin_empu/gowin_empu.vhd",
     "ModuleLine" : 1,
     "ModuleName" : "Gowin_EMPU_Top"
+   },
+   {
+    "InstFile" : "D:/GOWIN FPGA Projects/MCU_Tang_Nano_4K/src/soc_top.vhd",
+    "InstLine" : 28,
+    "InstName" : "pllvr_inst",
+    "ModuleFile" : "D:/GOWIN FPGA Projects/MCU_Tang_Nano_4K/src/gowin_pllvr/gowin_pllvr.vhd",
+    "ModuleLine" : 12,
+    "ModuleName" : "Gowin_PLLVR"
    }
   ]
  }

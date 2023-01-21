@@ -19,11 +19,14 @@ Analyzing entity '**'("D:\GOWIN FPGA Projects\MCU_Tang_Nano_4K\src\gowin_empu\go
 Analyzing architecture '**'("D:\GOWIN FPGA Projects\MCU_Tang_Nano_4K\src\gowin_empu\gowin_empu.vhd":0)
 Analyzing entity '**'("D:\GOWIN FPGA Projects\MCU_Tang_Nano_4K\src\gowin_empu\gowin_empu.vhd":0)
 Analyzing architecture '**'("D:\GOWIN FPGA Projects\MCU_Tang_Nano_4K\src\gowin_empu\gowin_empu.vhd":0)
+Analyzing VHDL file 'D:\GOWIN FPGA Projects\MCU_Tang_Nano_4K\src\gowin_pllvr\gowin_pllvr.vhd'
+Analyzing entity 'gowin_pllvr'("D:\GOWIN FPGA Projects\MCU_Tang_Nano_4K\src\gowin_pllvr\gowin_pllvr.vhd":12)
+Analyzing architecture 'behavioral'("D:\GOWIN FPGA Projects\MCU_Tang_Nano_4K\src\gowin_pllvr\gowin_pllvr.vhd":19)
 Analyzing VHDL file 'D:\GOWIN FPGA Projects\MCU_Tang_Nano_4K\src\soc_top.vhd'
-Analyzing entity 'soc_top'("D:\GOWIN FPGA Projects\MCU_Tang_Nano_4K\src\soc_top.vhd":5)
-Analyzing architecture 'behavioral'("D:\GOWIN FPGA Projects\MCU_Tang_Nano_4K\src\soc_top.vhd":14)
-Processing 'soc_top(Behavioral)'("D:\GOWIN FPGA Projects\MCU_Tang_Nano_4K\src\soc_top.vhd":5)
-WARN  (EX4546) : Not all partial formals of 'gpio' have actuals("D:\GOWIN FPGA Projects\MCU_Tang_Nano_4K\src\soc_top.vhd":43)
+Analyzing entity 'soc_top'("D:\GOWIN FPGA Projects\MCU_Tang_Nano_4K\src\soc_top.vhd":8)
+Analyzing architecture 'structural'("D:\GOWIN FPGA Projects\MCU_Tang_Nano_4K\src\soc_top.vhd":16)
+Processing 'soc_top(structural)'("D:\GOWIN FPGA Projects\MCU_Tang_Nano_4K\src\soc_top.vhd":8)
+WARN  (EX4546) : Not all partial formals of 'gpio' have actuals("D:\GOWIN FPGA Projects\MCU_Tang_Nano_4K\src\soc_top.vhd":21)
 Processing '**(**)'("D:\GOWIN FPGA Projects\MCU_Tang_Nano_4K\src\gowin_empu\gowin_empu.vhd":0)
 Processing '**(**)'("D:\GOWIN FPGA Projects\MCU_Tang_Nano_4K\src\gowin_empu\gowin_empu.vhd":0)
 Processing '**(**)'("D:\GOWIN FPGA Projects\MCU_Tang_Nano_4K\src\gowin_empu\gowin_empu.vhd":0)
@@ -33,6 +36,7 @@ Processing '**(**)'("D:\GOWIN FPGA Projects\MCU_Tang_Nano_4K\src\gowin_empu\gowi
 Processing '**(**)'("D:\GOWIN FPGA Projects\MCU_Tang_Nano_4K\src\gowin_empu\gowin_empu.vhd":0)
 Processing '**(**)'("D:\GOWIN FPGA Projects\MCU_Tang_Nano_4K\src\gowin_empu\gowin_empu.vhd":0)
 Processing '**(**)'("D:\GOWIN FPGA Projects\MCU_Tang_Nano_4K\src\gowin_empu\gowin_empu.vhd":0)
+Processing 'Gowin_PLLVR(Behavioral)'("D:\GOWIN FPGA Projects\MCU_Tang_Nano_4K\src\gowin_pllvr\gowin_pllvr.vhd":12)
 NOTE  (EX0101) : Current top module is "soc_top"
 [5%] Running netlist conversion ...
 Running device independent optimization ...

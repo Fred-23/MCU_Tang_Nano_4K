@@ -4,8 +4,9 @@
     <Version>beta</Version>
     <Device id="GW1NSR-4C" package="QFN48P" speed="6" partNumber="GW1NSR-LV4CQN48PC6/I5"/>
     <FileList>
-        <File path="D:\GOWIN FPGA Projects\MCU_Tang_Nano_4K\src\soc_top.vhd" type="vhdl"/>
         <File path="D:\GOWIN FPGA Projects\MCU_Tang_Nano_4K\src\gowin_empu\gowin_empu.vhd" type="vhdl"/>
+        <File path="D:\GOWIN FPGA Projects\MCU_Tang_Nano_4K\src\soc_top.vhd" type="vhdl"/>
+        <File path="D:\GOWIN FPGA Projects\MCU_Tang_Nano_4K\src\gowin_pllvr\gowin_pllvr.vhd" type="vhdl"/>
     </FileList>
     <OptionList>
         <Option type="disable_insert_pad" value="0"/>
